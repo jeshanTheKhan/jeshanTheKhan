@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md.Jeshan Khan</h1>
 <h3 align="center">A passionate Backend Developer from Bangladesh.And Also with SMM Expert</h3>
 
-<p align="left"> <img src="https://drive.google.com/file/d/1l9r3dI88WaKNtouo2IU3itWdfUxr1Vis/view?usp=drive_link" alt="jeshanTheKhan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fjeshan2608" alt="fjeshan2608" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <img src="https://drive.google.com/file/d/1l9r3dI88WaKNtouo2IU3itWdfUxr1Vis/view?usp=drive_link" alt="jeshanTheKhan" height="auto" width="3000px" /> </p>
 
 - 🔭 I’m currently working on [Libary Managment System](https://github.com/fjeshan2608/Libary-Managment-System.git)
 
