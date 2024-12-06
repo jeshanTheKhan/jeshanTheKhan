@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md.Jeshan Khan</h1>
 <h3 align="center">A passionate Backend Developer from Bangladesh.And Also with SMM Expert</h3>
 
-<img src="https://drive.google.com/file/d/1l9r3dI88WaKNtouo2IU3itWdfUxr1Vis/view?usp=sharing](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1mX9Hv2g_60bY1e0KdMKwk&ust=1733568782377000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICklpb9kooDFQAAAAAdAAAAABAE" height="auto" width="3000px"> 
+<img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1mX9Hv2g_60bY1e0KdMKwk&ust=1733568782377000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICklpb9kooDFQAAAAAdAAAAABAE)" height="auto" width="3000px"> 
 
 - 🔭 I’m currently working on [BizNews Project](https://github.com/jeshanTheKhan/BIZNEWS.git)
 
