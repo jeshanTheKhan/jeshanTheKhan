@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md.Jeshan Khan</h1>
 <h3 align="center">A passionate Backend Developer from Bangladesh.And Also with SMM Expert</h3>
 
-<img src="https://images.app.goo.gl/6grRG1syLBnGRpwP8" height="auto" width="3000px"> 
+<img src="[image](https://github.com/user-attachments/assets/0e8a3f17-2c9c-42bf-be84-89ebec83f01e)
+" width="3000px"> 
 
 - 🔭 I’m currently working on [BizNews Project](https://github.com/jeshanTheKhan/BIZNEWS.git)
 
